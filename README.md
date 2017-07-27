@@ -1,18 +1,16 @@
-#Slimy
+# Slimy
 
 A pygame based game coded in python.
 
-##Install Instructions
-Run main.py
-
+## Install Instructions
 Linux:
-In your terminal type - "python main.py"
 
-Windows:
-In IDLE open up the script and hit F5.
+pip install pygame
+python main.py
 
-##Screenshot
-![view](http://markroxor.pythonanywhere.com/static/snakes.png)
+
+## Screenshot
+![view](https://github.com/markroxor/Slimy/blob/master/slimy_ss.png)
 
 Reference and Acknowledgement:
 Tutorials by Bucky.
